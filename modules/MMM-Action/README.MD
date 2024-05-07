@@ -3,3 +3,5 @@ It is 3rd party module for the the MagicMirror this can be use to send notificat
 ---use cases ---
 It can be use to send notification to any module on click of button
 It can be used to execute any code on click of button
+
+
